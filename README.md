@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafanaeam&label=Profile%20views&color=0e75b6&style=flat" alt="mostafanaeam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafanaeam" alt="mostafanaeam" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=mostafanaeam](https://github-profile-trophy.vercel.app/?mostafanaeam=ryo-ma&theme=radical)" alt="mostafanaeam" /></a> </p>
+
 
 - 🔭 I’m currently working on [Code Journey Platform – A practical, Arabic-first tech education ecosystem.](https://python-docs-ashen.vercel.app/)
 
