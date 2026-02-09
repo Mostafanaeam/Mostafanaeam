@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Abd El-naeam</h1>
 <h3 align="center">A Frontend-focused MEAN Stack Developer & Technical Instructor building scalable web products and training future developers.</h3>
 
-<a href="https://gitroll.io/profile/uLx62Lm4LHXRSCFwCIaszlsgfNsB2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uLx62Lm4LHXRSCFwCIaszlsgfNsB2?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+</a>
 - 🔭 I’m currently working on [Code Journey Platform – A practical, Arabic-first tech education ecosystem.](https://python-docs-ashen.vercel.app/)
 
 - 🌱 I’m currently learning **Advanced React, Frontend Architecture, State Machines, Automation (n8n / Docker).**
